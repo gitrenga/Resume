@@ -1,32 +1,28 @@
 <h1 align="center">RESUME</h1>
-<br>
-<br>
-<h2 align="left" >
-<p >Rengasamy Venkittaraman (Architect)</p>
-<p>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      :&nbsp;15 Years </p>
-<p>Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys<br>
-<p>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
-</p>
-<p>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
-
+<h2 align="left" style="font-size: 0.8rem;">
+<p>Rengasamy Venkittaraman (Architect)</p>
+Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
+<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 15 Years
+<br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
+<br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
  </h2>
 
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-  
-  - Architecture & Solutioning
- -   UML Design & Estimations
- -   Proof of Concept & Prototyping
- -   Performance Tuning
- -   Design & Code Review
- -   Technical Documentation
+
+- Architecture & Solutioning
+-   UML Design & Estimations
+-   Proof of Concept & Prototyping
+-   Performance Tuning
+-   Design & Code Review
+-   Technical Documentation
 </blockquote >
 
 <h3 align="left">PRIMARY SKILLS :</h3>
 
 <blockquote style="font-size: 1rem;">
- 
+
 - Java/J2EE,Spring (Core,AOP,Batch,Security),Microservices,REST API,EJB,TDD,Hexagonal Architecture,RDBMS,Rule Engine (Redhat BRMS),UML
 
 </blockquote >         
@@ -69,34 +65,33 @@
 </blockquote>
 
 <h3 align="left">WORK HIGHLIGHTS:</h3>
-
 <blockquote style="font-size: 1rem;">
 
 -   **Solution Designing** in Hexagonal Architecture using Domain driven design
--   **Observability Solutioning**  
+-   **Observability Solutioning**
     - Application performance monitoring **:** X-Ray & Jaegar
     - Infrastrcute monitoring **:** X-Ray and Cloud Watch
 -    **Continuous Documentation** Semi Automated  **:** Architecture document, Installation document, C4Model document, Architecture design record document,other UML diagrams
 -    **Rule Engine** implementation and integration with enterprise application
--    **Performance Tuning** 
-     - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
-     - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
-     - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
+-    **Performance Tuning**
+    - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
+    - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
+    - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
 -    **Automation** **:** Project reportings such as Jar Licensing,documentation,PIT Test reports using Custom Maven plugin
--    **Reviews** 
-      
+-    **Reviews**
+
       - Custom Sonar rules coding & deployment when required
       - PIT Test report analysis and review to eliminate conunter productive test cases
       - Design & code review for performance, fault tolerance & recovery
       - Highlight refactoring techniques for aligning code with SOLID principles
--   **Migrating Legacy tech stack to Spring** 
-     - Database Connection Pooling **:** Custom Connection pooling to Hikari
-     - Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
-     - Resource Adapter **:** XA Transaction management with Spring Transactions
+-   **Migrating Legacy tech stack to Spring**
+    - Database Connection Pooling **:** Custom Connection pooling to Hikari
+    - Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
+    - Resource Adapter **:** XA Transaction management with Spring Transactions
 -  **Reuseable library** for cross cutting concerns **:** Custom Parser,Security,Logging,Auditing,Internationalization,Validation,Exception Handling
 -  **Event Orchestrastion** Microservice **:** for Event Driven Architecture
 </blockquote>
-
+<br>
 <h3 align="left">TOOLS:</h3>
 
 
@@ -122,7 +117,7 @@
 -  Automate complete technical documentation using Architecture Rules
 -  Automation of Containerization & Deployment Orchestration without docker file & deployment.yml
 -  Open Source AI model for Automatic seat assignment using hard and soft constraints
--  Ahead of Time Optimization using Gravaal VM for performance gain	
+-  Ahead of Time Optimization using Gravaal VM for performance gain
 
 </blockquote>
 
