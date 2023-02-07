@@ -1,7 +1,7 @@
 <h1 align="center">RESUME</h1>
 <br>
 <br>
-<h2 align="left" >
+<h2 align="left" style="font-size: 1rem;>
 <p >Rengasamy Venkittaraman (Architect)</p>
 <p>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      :&nbsp;15 Years </p>
 <p>Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys<br>
