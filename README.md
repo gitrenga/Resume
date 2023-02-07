@@ -1,5 +1,4 @@
 <h1 align="center">RESUME</h1>
-<h6 align="center">Documented using MarkDown</h6>
 <br>
 <br>
 <h2 align="left" style="font-size: 1rem;>
