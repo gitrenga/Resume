@@ -105,7 +105,7 @@
 
 -   **CD/CI** **:** Maven,SonarQube,Jenkins
 -   **Testing** **:** Jmeter,Dependency check,ZAP,App Scan,Nessus Scan
--   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma
+-   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Middleware** **:** IBM MQ,Kafka
