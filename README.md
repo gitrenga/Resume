@@ -42,25 +42,29 @@
 
 </blockquote > 
 
-<h3 align="left">ONSITE EXPOSURE :</h3>
+<h3 align="left">ONSITE EXPERIENCE :</h3>
 
 <blockquote style="font-size: 1rem;">
   <table>
   <tr>
     <th>Client</th>
-    <th>Purpose</th> 
+    <th>Purpose</th>
+    <th>Year</th>
   </tr>
   <tr>
     <td>TravelSky (Beijing,China)</td>
     <td>Application design walk through & product cut over plan & design</td> 
+    <td>2013-2015 (Duration : 1 years)</td>
   </tr>
   <tr>
     <td>BMW (Munich,Germany)</td>
     <td>Knowledge transfer for ramping up team in offshore</td> 
+    <td>2016 (Duration : 1 Month)</td>
   </tr>
 <tr>
     <td>Iberia (Madrid,Spain)</td>
     <td>Architecture & product capability presentation</td> 
+    <td>2022 (Duration : 3 Weeks)</td>
   </tr>
 </table> 
 </blockquote>
