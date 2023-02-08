@@ -84,7 +84,7 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
       - PIT Test report analysis and review to eliminate conunter productive test cases
       - Design & code review for performance, fault tolerance & recovery
       - Highlight refactoring techniques for aligning code with SOLID principles
--   **Migrating Legacy tech stack to Spring**
+-   **Migrating Legacy J2EE tech stack to Spring Framework**
     - Database Connection Pooling **:** Custom Connection pooling to Hikari
     - Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
     - Resource Adapter **:** XA Transaction management with Spring Transactions
