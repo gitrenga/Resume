@@ -10,7 +10,7 @@ Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability. 
+Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability.
 
 My work includes:
 
@@ -89,29 +89,29 @@ My work includes:
 <blockquote style="font-size: 1rem;">
 
 -   **Solution Designing & migrating Legacy J2EE tech stack to spring boot**
-       -    Hexagonal Architecture using Domain driven design
-       -    Event Orchestrastion using event driven design
-       -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray
-       -    Arhictecture Refactoring :
-                - Database Connection Pooling **:** Custom Connection pooling to Hikari
-                -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
-                -    Resource Adapter **:** XA Transaction management with Spring Transactions
-          
+    -    Hexagonal Architecture using Domain driven design
+    -    Event Orchestrastion using event driven design
+    -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray
+    -    Arhictecture Refactoring :
+         - Database Connection Pooling **:** Custom Connection pooling to Hikari
+         -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
+         -    Resource Adapter **:** XA Transaction management with Spring Transactions
+
 -  **Reuseable library** for cross cutting concerns **:** Custom Parser,Security,Logging,Auditing,Internationalization,Validation,Exception Handling
 
 -   **Observability Solutioning for Monitoring & Auditing**
     - Application performance monitoring **:** X-Ray & Jaegar
     - Infrastructure monitoring **:** X-Ray and Cloud Watch
 -    **Performance Tuning**
-    - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
-    - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
-    - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
+     - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
+     - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
+     - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
 -    **Reviews**
 
-        - Custom Sonar rules coding & deployment when required
-        - PIT Test report analysis and review to eliminate conunter productive test cases
-        - Design & code review for performance, fault tolerance & recovery
-        - Highlight refactoring techniques for aligning code with SOLID principles
+    - Custom Sonar rules coding & deployment when required
+    - PIT Test report analysis and review to eliminate conunter productive test cases
+    - Design & code review for performance, fault tolerance & recovery
+    - Highlight refactoring techniques for aligning code with SOLID principles
 -    **Rule Engine** implementation and integration with enterprise application
 
 -    **Automation** **:** Project reportings such as Jar Licensing,documentation,PIT Test reports using Custom Maven plugin
