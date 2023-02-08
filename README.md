@@ -77,7 +77,7 @@ My work includes:
   <tr>
     <td>BMW (Munich,Germany)</td>
     <td>Knowledge transfer for ramping up team in offshore</td> 
-    <td>2016 (Duration : 1 Month)</td>
+    <td>2016 (Duration : 1.5 Month)</td>
   </tr>
 <tr>
     <td>Iberia (Madrid,Spain)</td>
