@@ -120,9 +120,6 @@ My work includes:
 
 -  **Continuous Documentation** Semi Automated  **:** Architecture document, Installation document, C4Model document, Architecture design record document,other UML diagrams
 </blockquote>
-<br>
-
-
 
 <h3 align="left">PROOF OF CONCEPT :</h3>
 
