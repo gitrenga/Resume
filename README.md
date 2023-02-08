@@ -10,8 +10,8 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-
-- Architecture & Solutioning
+Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies
+- Architecture & Solutioning 
 -   UML Design & Estimations
 -   Proof of Concept & Prototyping
 -   Performance Tuning
