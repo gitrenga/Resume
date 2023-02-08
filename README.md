@@ -10,7 +10,7 @@ Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability.
+Working as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability.
 
 My work includes:
 
