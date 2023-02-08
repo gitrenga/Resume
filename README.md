@@ -99,7 +99,7 @@ My work includes:
 
 -   **Observability Solutioning for Monitoring & Auditing**
     - Application performance monitoring **:** X-Ray & Jaegar
-    - Infrastrcute monitoring **:** X-Ray and Cloud Watch
+    - Infrastructure monitoring **:** X-Ray and Cloud Watch
 -    **Performance Tuning**
     - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
     - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
