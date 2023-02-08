@@ -47,14 +47,16 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
--   **CD/CI** **:** Maven,SonarQube,Jenkins
--   **Testing** **:** Jmeter,Dependency check,ZAP,App Scan,Nessus Scan
--   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
+-   **AWS** **:** EC2,Bean stack,API Gateway,ECR,EKS,RDS,IBM MQ,Cognito,Cloud Watch,X-Ray
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Middleware** **:** IBM MQ,Kafka
--   **AWS** **:** EC2,Bean stack,API Gateway,ECR,EKS,RDS,IBM MQ,Cognito,Cloud Watch,X-Ray
 -   **Profiling** **:** JProfiler,Eclipse Memory Analyser,Jconsole,Dyna Trace
+-   **Version control** **:** git
+-   **Rule engine** **:** RedHat BRMS
+-   **Testing** **:** Jmeter,Dependency check,ZAP,App Scan,Nessus Scan
+-   **CD/CI** **:** Maven,SonarQube,Jenkins
+-   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
 
 </blockquote>
 
