@@ -103,9 +103,9 @@ My work includes:
     - Application performance monitoring **:** X-Ray & Jaegar
     - Infrastructure monitoring **:** X-Ray and Cloud Watch
 -    **Performance Tuning**
-    - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
-    - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
-    - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
+       - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
+       - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
+       - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
 -    **Reviews**
 
       - Custom Sonar rules coding & deployment when required
