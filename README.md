@@ -10,13 +10,16 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies
-- Architecture & Solutioning 
--   UML Design & Estimations
--   Proof of Concept & Prototyping
--   Performance Tuning
+Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability. My work includes 
+ 
+- Proof of Concept & Prototyping
+-   Architecture & Solutioning 
+-   UML Design 
 -   Design & Code Review
+-   Performance Tuning
 -   Technical Documentation
+-   Estimations
+-   Technical road map preparation
 </blockquote >
 
 <h3 align="left">PRIMARY SKILLS :</h3>
