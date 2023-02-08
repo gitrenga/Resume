@@ -91,10 +91,12 @@ My work includes:
 -   **Solution Designing & migrating Legacy J2EE tech stack to spring boot**
        -    Hexagonal Architecture using Domain driven design
        -    Event Orchestrastion using event driven design
-       -    Database Connection Pooling **:** Custom Connection pooling to Hikari
-       -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
-       -    Resource Adapter **:** XA Transaction management with Spring Transactions
-       -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray 
+       -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray
+       -    Arhictecture Refactoring :
+                - Database Connection Pooling **:** Custom Connection pooling to Hikari
+                -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
+                -    Resource Adapter **:** XA Transaction management with Spring Transactions
+          
 -  **Reuseable library** for cross cutting concerns **:** Custom Parser,Security,Logging,Auditing,Internationalization,Validation,Exception Handling
 
 -   **Observability Solutioning for Monitoring & Auditing**
