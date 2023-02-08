@@ -1,8 +1,8 @@
 <h1 align="center">RESUME</h1>
 <h2 align="left" style="font-size: 0.8rem;">
 <p>Rengasamy Venkittaraman (Architect)</p>
-Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
-<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 15 Years
+Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Unisys
+<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 15 Years
 <br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
 <br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
  </h2>
@@ -10,7 +10,9 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability. My work includes
+Working as Solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability. 
+
+My work includes:
 
 - Proof of Concept & Prototyping
 -   Architecture & Solutioning
