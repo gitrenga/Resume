@@ -23,7 +23,7 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 
 <blockquote style="font-size: 1rem;">
 
-- Java/J2EE,Spring (Core,AOP,Batch,Security),Microservices,REST API,EJB,TDD,Hexagonal Architecture,RDBMS,Rule Engine (Redhat BRMS),UML
+- Java/J2EE,Spring Boot(Core,AOP,Batch,Security),Microservices,REST API,EJB,TDD,Hexagonal Architecture,RDBMS,Rule Engine (Redhat BRMS),UML,Event Driven Architecture
 
 </blockquote >         
 
