@@ -38,7 +38,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- AWS,HTML,CSS,Java script,JSP,ReactJs
+- AWS, HTML, CSS, Java script, JSP, ReactJs
 
 </blockquote > 
 
