@@ -37,6 +37,22 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 
 </blockquote > 
 
+<h3 align="left">TOOLS:</h3>
+
+
+<blockquote style="font-size: 1rem;">
+
+-   **CD/CI** **:** Maven,SonarQube,Jenkins
+-   **Testing** **:** Jmeter,Dependency check,ZAP,App Scan,Nessus Scan
+-   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
+-   **Server** **:** Jboss,Tomcat,Weblogic
+-   **Database** **:** Oracle,MongoDB
+-   **Middleware** **:** IBM MQ,Kafka
+-   **AWS** **:** EC2,Bean stack,API Gateway,ECR,EKS,RDS,IBM MQ,Cognito,Cloud Watch,X-Ray
+-   **Profiling** **:** JProfiler,Eclipse Memory Analyser,Jconsole,Dyna Trace
+
+</blockquote>
+
 <h3 align="left">ONSITE EXPERIENCE :</h3>
 
 <blockquote style="font-size: 1rem;">
@@ -92,21 +108,7 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 -  **Event Orchestrastion** Microservice **:** for Event Driven Architecture
 </blockquote>
 <br>
-<h3 align="left">TOOLS:</h3>
 
-
-<blockquote style="font-size: 1rem;">
-
--   **CD/CI** **:** Maven,SonarQube,Jenkins
--   **Testing** **:** Jmeter,Dependency check,ZAP,App Scan,Nessus Scan
--   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
--   **Server** **:** Jboss,Tomcat,Weblogic
--   **Database** **:** Oracle,MongoDB
--   **Middleware** **:** IBM MQ,Kafka
--   **AWS** **:** EC2,Bean stack,API Gateway,ECR,EKS,RDS,IBM MQ,Cognito,Cloud Watch,X-Ray
--   **Profiling** **:** JProfiler,Eclipse Memory Analyser,Jconsole,Dyna Trace
-
-</blockquote>
 
 
 <h3 align="left">PROOF OF CONCEPT :</h3>
