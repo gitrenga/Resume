@@ -109,7 +109,7 @@ Present Company &nbsp;&nbsp;&nbsp;:&nbsp;Unisys
 </blockquote>
 
 
-<h3 align="left">PROOF OF CONCEPT (IN-PROGRESS):</h3>
+<h3 align="left">PROOF OF CONCEPT :</h3>
 
 <blockquote style="font-size: 1rem;">
 
