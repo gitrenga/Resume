@@ -95,9 +95,9 @@ My work includes:
     -    Event Orchestrastion using event driven design
     -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray
     -    Arhictecture Refactoring :
-        - Database Connection Pooling **:** Custom Connection pooling to Hikari
-        -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
-        -    Resource Adapter **:** XA Transaction management with Spring Transactions
+            - Database Connection Pooling **:** Custom Connection pooling to Hikari
+            -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
+            -    Resource Adapter **:** XA Transaction management with Spring Transactions
 
 -  **Reuseable library** for cross cutting concerns **:** Custom Parser,Security,Logging,Auditing,Internationalization,Validation,Exception Handling
 
