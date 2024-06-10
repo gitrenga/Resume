@@ -1,8 +1,8 @@
 <h1 align="center">RESUME</h1>
 <h2 align="left" style="font-size: 0.8rem;">
 <p>Rengasamy Venkittaraman (Architect)</p>
-Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Unisys
-<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 15 Years
+Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Baxter
+<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 17 Years
 <br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
 <br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
  </h2>
@@ -38,7 +38,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- AWS, HTML, CSS, Java script, JSP, ReactJs
+- AWS, HTML, CSS, Java script, JSP, ReactJs, AI/ML
 
 </blockquote > 
 
@@ -144,6 +144,14 @@ My work includes:
     <th>Relieving Date</th> 
     <th>Project</th>
     <th>Domain</th>
+  </tr>
+  <tr>
+    <td>Baxter</td>
+    <td>Architect(Senior Principal Engg)</td>
+    <td>12JUN2023</td>
+    <td>Present</td> 
+    <td>Patient Monitoring (FLC)</td>
+    <td>Health Care</td> 
   </tr>
   <tr>
     <td>Unisys</td>
