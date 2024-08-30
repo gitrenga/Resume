@@ -131,7 +131,8 @@ My work includes:
 -  Automation of Containerization & Deployment Orchestration without docker file & deployment.yml
 -  Open Source AI model for Automatic seat assignment using hard and soft constraints
 -  Ahead of Time Optimization using Gravaal VM for performance gain
-
+-  XML Schema based UI code generation
+-  Data transformation using Rust for high performance
 </blockquote>
 
 <h3 align="left">EXPERIENCE BREAKDOWN:</h3>
