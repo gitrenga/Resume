@@ -47,7 +47,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
--   **AWS** **:** EC2,Bean stack,API Gateway,ECR,EKS,RDS,IBM MQ,Cognito,Cloud Watch,X-Ray
+-   **AWS/Azure** **:** EC2,Bean stack/App service,API Gateway,ECR,EKS/AKS,RDS,IBM MQ,Cognito/Azure AD,Cloud Watch/Azure monitor,X-Ray/Azure App insight
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Middleware** **:** IBM MQ,Kafka
