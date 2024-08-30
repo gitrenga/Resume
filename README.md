@@ -28,7 +28,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- Java (11, 1.8, Functional Programming & Reactive Programming), J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB),Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting), Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) , RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS), UML
+- Java (17, 1.8, Functional Programming & Reactive Programming), J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB),Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting), Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) , RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS), UML, Cloud Architecture & Solutioning, Enterprise Integration Solutioning (Kafka,ESB,Apache Camel,Grpc),front end technologies (HTML, CSS, Java script, JSP,ReactJs)
 
 </blockquote >         
 
@@ -38,7 +38,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- AWS, HTML, CSS, Java script, JSP, ReactJs, AI/ML
+- AI/ML,Rust,Python
 
 </blockquote > 
 
