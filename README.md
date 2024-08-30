@@ -17,10 +17,10 @@ My work includes:
 - Proof of Concept & Prototyping
 -   Architecture & Solutioning
 -   UML Design
--   Design & Code Review
+-   System Design & Code Review
 -   Performance Tuning
 -   Technical Documentation
--   Estimations
+-   RFP evaluation & Estimations
 -   Technical road map preparation
 </blockquote >
 
