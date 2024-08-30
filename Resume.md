@@ -2,15 +2,16 @@
 <h2 align="left" style="font-size: 0.8rem;">
 <p>Rengasamy Venkittaraman (Architect)</p>
 Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Baxter
-<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 17 Years
-<br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
-<br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
+<br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 17 Years
+<br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
+<br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
  </h2>
-
+ 
+<br>
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-Working as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of HA,fault tolerance,scalability,performance,observability.
+Working as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of high availability,fault tolerance,scalability,performance,observability,openness,extensibility,data integrity,maintainability.
 
 My work includes:
 
@@ -24,22 +25,34 @@ My work includes:
 -   RFP Evaluation & Estimations
 -   Technical road map preparation
 </blockquote >
-
+<br>
 <h3 align="left">PRIMARY SKILLS :</h3>
 
 <blockquote style="font-size: 1rem;">
 
-- Java (17, 1.8, Functional Programming & Reactive Programming), J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB),Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting), Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) , RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS), UML, Cloud Architecture & Solutioning, Enterprise Integration Solutioning (Kafka,ESB/Apache Camel,Grpc),front end technologies (HTML, CSS, Java script, JSP,ReactJs)
+- Java (17, 1.8, Functional Programming & Reactive Programming)
+- J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB)
+- Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting)
+-  Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) 
+-  RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS)
+-  UML,Solution & Deployment Diagram
+-  Cloud Architecture & Solutioning
+-  Enterprise Integration Solutioning (Kafka,ESB/Apache Camel,GRPC,Protobuf)
+-  Front end technologies (HTML, CSS, Java script, JSP,ReactJs)
 
 </blockquote >         
 
 
 
+<br>
 <h3 align="left">SECONDARY SKILLS :</h3>
 
 <blockquote style="font-size: 1rem;">
 
-- AI/ML,Rust,Python
+- AI/ML,Rust,Python,Data science
+
+<br>
+
 
 </blockquote > 
 
@@ -49,6 +62,7 @@ My work includes:
 <blockquote style="font-size: 1rem;">
 
 -   **AWS/Azure** **:** EC2,Bean stack/App service,API Gateway,ECR,EKS/AKS,RDS,IBM MQ,Cognito/Azure AD,Cloud Watch/Azure monitor,X-Ray/Azure App insight
+  
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel),Spring Integration
@@ -60,7 +74,8 @@ My work includes:
 -   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
 
 </blockquote>
-
+<br>
+<br>
 <h3 align="left">ONSITE EXPERIENCE :</h3>
 
 <blockquote style="font-size: 1rem;">
@@ -87,7 +102,8 @@ My work includes:
   </tr>
 </table> 
 </blockquote>
-
+<br>
+<br>
 <h3 align="left">WORK HIGHLIGHTS:</h3>
 <blockquote style="font-size: 1rem;">
 
@@ -95,11 +111,14 @@ My work includes:
     -    Hexagonal Architecture using Domain driven design
     -    Event Orchestrastion using event driven design
     -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray
+<br>
+<br>
+<br>
+<br>
     -    Arhictecture Refactoring :
             - Database Connection Pooling **:** Custom Connection pooling to Hikari
             -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
             -    Resource Adapter **:** XA Transaction management with Spring Transactions
-
 -  **Reuseable library** for cross cutting concerns **:** Custom Parser,Security,Logging,Auditing,Internationalization,Validation,Exception Handling
 
 -   **Observability Solutioning for Monitoring & Auditing**
@@ -121,8 +140,8 @@ My work includes:
 
 -  **Continuous Documentation** Semi Automated  **:** Architecture document, Installation document, C4Model document, Architecture design record document,other UML diagrams
 </blockquote>
-
-<h3 align="left">PROOF OF CONCEPT :</h3>
+<br>
+<h3 align="left">NOTEABLE PROOF OF CONCEPT :</h3>
 
 <blockquote style="font-size: 1rem;">
 
@@ -134,10 +153,13 @@ My work includes:
 -  XML Schema based UI code generation
 -  Data transformation using Rust for high performance
 </blockquote>
-
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">EXPERIENCE BREAKDOWN:</h3>
 
-<blockquote style="font-size: 1rem;">
+<blockquote style="font-size: 0.8rem;">
 <table>
   <tr>
     <th>Organization</th>
@@ -189,7 +211,10 @@ My work includes:
   </tr>
 </table> 
 </blockquote>
-
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">EDUCATION:</h3>
 
 <blockquote style="font-size: 1rem;">
