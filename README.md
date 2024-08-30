@@ -20,7 +20,7 @@ My work includes:
 -   System Design & Code Review
 -   Performance Tuning
 -   Technical Documentation
--   RFP evaluation & Estimations
+-   RFP Evaluation & Estimations
 -   Technical road map preparation
 </blockquote >
 
@@ -28,7 +28,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- Java (17, 1.8, Functional Programming & Reactive Programming), J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB),Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting), Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) , RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS), UML, Cloud Architecture & Solutioning, Enterprise Integration Solutioning (Kafka,ESB,Apache Camel,Grpc),front end technologies (HTML, CSS, Java script, JSP,ReactJs)
+- Java (17, 1.8, Functional Programming & Reactive Programming), J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB),Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting), Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) , RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS), UML, Cloud Architecture & Solutioning, Enterprise Integration Solutioning (Kafka,ESB/Apache Camel,Grpc),front end technologies (HTML, CSS, Java script, JSP,ReactJs)
 
 </blockquote >         
 
@@ -50,7 +50,7 @@ My work includes:
 -   **AWS/Azure** **:** EC2,Bean stack/App service,API Gateway,ECR,EKS/AKS,RDS,IBM MQ,Cognito/Azure AD,Cloud Watch/Azure monitor,X-Ray/Azure App insight
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
--   **Middleware** **:** IBM MQ,Kafka
+-   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel)
 -   **Profiling** **:** JProfiler,Eclipse Memory Analyser,Jconsole,Dyna Trace
 -   **Version control** **:** git
 -   **Rule engine** **:** RedHat BRMS
