@@ -17,7 +17,8 @@ My work includes:
 - Proof of Concept & Prototyping
 -   Architecture & Solutioning
 -   UML Design
--   System Design & Code Review
+-   System Design
+-   Code Review
 -   Performance Tuning
 -   Technical Documentation
 -   RFP Evaluation & Estimations
@@ -50,7 +51,7 @@ My work includes:
 -   **AWS/Azure** **:** EC2,Bean stack/App service,API Gateway,ECR,EKS/AKS,RDS,IBM MQ,Cognito/Azure AD,Cloud Watch/Azure monitor,X-Ray/Azure App insight
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
--   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel)
+-   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel),Spring Integration
 -   **Profiling** **:** JProfiler,Eclipse Memory Analyser,Jconsole,Dyna Trace
 -   **Version control** **:** git
 -   **Rule engine** **:** RedHat BRMS
