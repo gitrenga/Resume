@@ -150,7 +150,7 @@ My work includes:
   <tr>
     <td>Baxter</td>
     <td>Architect(Senior Principal Engg)</td>
-    <td>12JUN2023</td>
+    <td>2023</td>
     <td>Present</td> 
     <td>Patient Monitoring (FLC)</td>
     <td>Health Care</td> 
