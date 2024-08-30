@@ -159,7 +159,7 @@ My work includes:
     <td>Unisys</td>
     <td>Architect</td>
     <td>2017</td>
-    <td>Present</td> 
+    <td>2023</td> 
     <td>Order Management System (Aircore)</td>
     <td>Airline Passengers Transportation</td> 
   </tr>
