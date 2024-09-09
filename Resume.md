@@ -13,8 +13,19 @@ Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Baxter
 
 Working as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of high availability,fault tolerance,scalability,performance,observability,openness,extensibility,data integrity,maintainability.
 
+As a seasoned Architect, I have consistently delivered high-quality solutions by effectively leading and managing cross-functional teams.I excel in complex development tasks, providing technical guidance, and ensuring seamless implementation of frameworks and functional components. My ability to foster collaboration and drive results has contributed to successful project outcomes.
+
+  - Proven track record in Architecture with a focus on team management and technical leadership.
+  - Successfully led cross teams of associate architects and senior developers in delivering complex projects.
+  - Demonstrated expertise in cross functional team collaboration for solution & deployment architecture/frameworks
+  - Proven ability to mentor and guide team members to achieve project goals.
+
 My work includes:
 
+- Technical Guidance for Architects & senior devs
+- Prepare Reference Architecture for teams/architects
+- KPI based reviewing of architecture,solutioning & framework
+- Technical road map preparation
 - Proof of Concept & Prototyping
 -   Architecture & Solutioning
 -   UML Design
@@ -23,8 +34,11 @@ My work includes:
 -   Performance Tuning
 -   Technical Documentation
 -   RFP Evaluation & Estimations
--   Technical road map preparation
+
 </blockquote >
+<br>
+<br>
+<br>
 <br>
 <h3 align="left">PRIMARY SKILLS :</h3>
 
@@ -76,6 +90,10 @@ My work includes:
 </blockquote>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">ONSITE EXPERIENCE :</h3>
 
 <blockquote style="font-size: 1rem;">
@@ -107,14 +125,24 @@ My work includes:
 <h3 align="left">WORK HIGHLIGHTS:</h3>
 <blockquote style="font-size: 1rem;">
 
+-   **Team Rampup & Technical Expertise Building**
+    -   Experience of building a team of size 25 via KT/collaboration from Germany to India
+    -   Interviewing technical candidates
+    -   Technical Knowledge transfer planning and execution
+    -   Conducting Walk through sessions on Architecture,design & solutioning
+-   **Technical Review/Guidance & Cross functional Team Collaboration**
+    -   Evaluating,Identifying & recommending improvements of Architecture,Framework solutioning based on
+        -   Architectural KPIs :
+            -    Scalability,Reliability,Security,Performance,Maintainability,Openess,Extensibility,Governance
+        -   Framework KPIs :
+            -    Adoption rate,Time to Market,Cost effective,Quality,Value add
+    -   Prioritizing and grooming Sprint Work items based on
+        -   MoSCoW Method,Value vs. Effort Matrix,Risk-Based Prioritization,Dependency Analysis
+        -   Requirement Refinement,Story Point Estimation,Task Breakdown,Acceptance Criteria Definition,Dependency Identification,Backlog Refinement
 -   **Solution Designing & migrating Legacy J2EE tech stack to spring boot**
     -    Hexagonal Architecture using Domain driven design
     -    Event Orchestrastion using event driven design
     -    Cloud native solutions such as Application gateway, Server side load balancer, Containerization, ECR, EKS, Cloud Watch, X-ray
-<br>
-<br>
-<br>
-<br>
     -    Arhictecture Refactoring :
             - Database Connection Pooling **:** Custom Connection pooling to Hikari
             -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
@@ -124,6 +152,8 @@ My work includes:
 -   **Observability Solutioning for Monitoring & Auditing**
     - Application performance monitoring **:** X-Ray & Jaegar
     - Infrastructure monitoring **:** X-Ray and Cloud Watch
+<br>
+<br>
 -    **Performance Tuning**
        - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
        - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
@@ -153,6 +183,12 @@ My work includes:
 -  XML Schema based UI code generation
 -  Data transformation using Rust for high performance
 </blockquote>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
