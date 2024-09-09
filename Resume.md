@@ -130,6 +130,7 @@ My work includes:
     -   Interviewing technical candidates
     -   Technical Knowledge transfer planning and execution
     -   Conducting Walk through sessions on Architecture,design & solutioning
+    -   Guidance,review,roadmap preparation,sprint grooming for team's technical activities
 -   **Technical Review/Guidance & Cross functional Team Collaboration**
     -   Evaluating,Identifying & recommending improvements of Architecture,Framework solutioning based on
         -   Architectural KPIs :
