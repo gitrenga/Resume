@@ -125,7 +125,7 @@ My work includes:
 <h3 align="left">WORK HIGHLIGHTS:</h3>
 <blockquote style="font-size: 1rem;">
 
--   **Team Rampup & Technical Expertise Building**
+-   **Technical Guidance,Rampup & Expertise Building for team**
     -   Experience of building a team of size 25 via KT/collaboration from Germany to India
     -   Interviewing technical candidates
     -   Technical Knowledge transfer planning and execution
