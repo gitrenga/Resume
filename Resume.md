@@ -35,6 +35,7 @@ My work includes:
 -   Technical Documentation
 -   RFP Evaluation & Estimations
 -   Web Security Review & Evaluation
+-   Reference Architecture & Platformization
 
 </blockquote >
 <br>
