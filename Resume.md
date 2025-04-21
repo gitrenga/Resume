@@ -46,7 +46,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- Java (17, 1.8, Functional Programming & Reactive Programming)
+- Java (Functional Programming & Reactive Programming)
 - J2EE (JSP, Servlet, JAXP, JAXRS,Javascript,EJB3, MDB)
 - Spring (Core, AOP, Batch, Security),Spring Boot (Reuseable framework for cross cutting)
 -  Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) 
