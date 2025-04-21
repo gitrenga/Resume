@@ -28,6 +28,7 @@ My work includes:
 - Technical road map preparation
 - Proof of Concept & Prototyping
 -   Architecture & Solutioning
+-   Cloud Solutioning
 -   UML Design
 -   System Design
 -   Code Review
@@ -77,8 +78,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
--   **AWS/Azure** **:** EC2,Bean stack/App service,API Gateway,ECR,EKS/AKS,RDS,IBM MQ,Cognito/Azure AD,Cloud Watch/Azure monitor,X-Ray/Azure App insight
-  
+-   **AWS/Azure** **:** Compute,Network,Memory,Observability,Database,Middleware,Containerization & Orchestration tools  
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel),Spring Integration
