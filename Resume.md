@@ -34,6 +34,7 @@ My work includes:
 -   Performance Tuning
 -   Technical Documentation
 -   RFP Evaluation & Estimations
+-   Web Security Review & Evaluation
 
 </blockquote >
 <br>
