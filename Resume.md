@@ -63,7 +63,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
-- AI/ML,Rust,Python,Data science
+- AI/ML (RAG,AI agentic Systems,ML algorithms),Rust,Python,Data science
 
 <br>
 
