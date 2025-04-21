@@ -4,14 +4,16 @@
 Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Baxter
 <br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 17+ Years
 <br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
-<br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com</p>
+<br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com
+<br>Preferred Work Location &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Bangalore
+<br>LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.linkedin.com/in/rengasamy-venkittaraman/</p>
  </h2>
  
 <br>
 <h3 align="left">ROLES</h3>
 <blockquote style="font-size: 1rem;">
 
-Working as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of high availability,fault tolerance,scalability,performance,observability,openness,extensibility,data integrity,maintainability.
+Led as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of high availability,fault tolerance,scalability,performance,observability,openness,extensibility,data integrity,maintainability.
 
 As a seasoned Architect, I have consistently delivered high-quality solutions by effectively leading and managing cross-functional teams.I excel in complex development tasks, providing technical guidance, and ensuring seamless implementation of frameworks and functional components. My ability to foster collaboration and drive results has contributed to successful project outcomes.
 
@@ -22,21 +24,43 @@ As a seasoned Architect, I have consistently delivered high-quality solutions by
 
 My work includes:
 
-- Technical Guidance for Architects & senior devs
-- Prepare Reference Architecture for teams/architects
-- KPI based reviewing of architecture,solutioning & framework
-- Technical road map preparation
-- Proof of Concept & Prototyping
--   Architecture & Solutioning
--   Cloud Solutioning
--   UML Design
--   System Design
--   Code Review
--   Performance Tuning
--   Technical Documentation
--   RFP Evaluation & Estimations
--   Web Security Review & Evaluation
--   Reference Architecture & Platformization
+- Architecture
+
+  Prepare Reference Architecture for teams/architects
+
+  Reference Architecture & Platformization
+
+  Cloud Solutioning
+
+  RFP Evaluation & Estimations
+
+  Web Security Review & Evaluation
+
+  Architecture & Solutioning
+
+  System Design
+
+- Design
+
+  UML Design
+
+- Development
+
+  Proof of Concept & Prototyping
+
+  Code Review
+
+  Performance Tuning
+
+- Technical Leadership
+
+  Technical Guidance for Architects & senior devs
+
+  KPI based reviewing of architecture, solutioning & framework
+
+  Technical road map preparation
+
+  Technical Documentation
 
 </blockquote >
 <br>
@@ -78,7 +102,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
--   **AWS/Azure** **:** Compute,Network,Memory,Observability,Database,Middleware,Containerization,Orchestration & other cloud native tools  
+-   **AWS/Azure** **:** Kubernetes, Serverless Computing (AWS Lambda, Azure Functions) & other cloud native components on Compute,Network,Memory,Observability,Database,  Middleware,Containerization,Orchestration  
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel),Spring Integration
