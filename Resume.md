@@ -182,7 +182,9 @@ My work includes:
 -  Open Source AI model for Automatic seat assignment using hard and soft constraints
 -  Ahead of Time Optimization using Gravaal VM for performance gain
 -  XML Schema based UI code generation
--  Data transformation using Rust for high performance
+-  Application integration with RAG based insight
+-  ML algorithm for pattern based insights
+-  Agentic AI design
 </blockquote>
 <br>
 <br>
