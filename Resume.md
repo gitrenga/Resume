@@ -5,69 +5,41 @@ Present Company &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Baxter
 <br>Experience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 17+ Years
 <br>Contact &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;+91-8792378589 
 <br>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: rengainbox23@gmail.com
-<br>Preferred Work Location &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Bangalore
-<br>LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.linkedin.com/in/rengasamy-venkittaraman/</p>
+<br>LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://www.linkedin.com/in/rengasamy-venkittaraman/
+<br>Work Location &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Bangalore
+</p>
  </h2>
- 
-<br>
-<h3 align="left">ROLES</h3>
+<h3 align="left"><b>ROLES</b></h3>
 <blockquote style="font-size: 1rem;">
 
-Led as solution architect for modernizing legacy J2EE enterprise application to microservice based cloud native architecture using open source technologies for objectives of high availability,fault tolerance,scalability,performance,observability,openness,extensibility,data integrity,maintainability.
-
-As a seasoned Architect, I have consistently delivered high-quality solutions by effectively leading and managing cross-functional teams.I excel in complex development tasks, providing technical guidance, and ensuring seamless implementation of frameworks and functional components. My ability to foster collaboration and drive results has contributed to successful project outcomes.
-
-  - Proven track record in Architecture with a focus on team management and technical leadership.
-  - Successfully led cross teams of associate architects and senior developers in delivering complex projects.
-  - Demonstrated expertise in cross functional team collaboration for solution & deployment architecture/frameworks
-  - Proven ability to mentor and guide team members to achieve project goals.
+Led J2EE legacy app modernization to cloud-native microservices using open-source for high availability, fault tolerance, scalability, performance, observability, openness, extensibility, data integrity, and maintainability.
+- Seasoned Architect with a track record of high-quality solutions through effective leadership and cross-functional team management.
+- Excel in complex development, technical guidance, and seamless framework implementation. 
+- Proven Architecture track record with team management and technical leadership focus.
+- Successfully led cross-functional teams (associate architects, senior developers) in complex project delivery.
+- Demonstrated expertise in cross-functional collaboration for solution & deployment architecture/frameworks.
+- Proven ability to mentor and guide team members to achieve project goals.
 
 My work includes:
-
 - Architecture
-
-  Prepare Reference Architecture for teams/architects
-
-  Reference Architecture & Platformization
-
-  Cloud Solutioning
-
-  RFP Evaluation & Estimations
-
-  Web Security Review & Evaluation
-
-  Architecture & Solutioning
-
-  System Design
-
-- Design
-
-  UML Design
-
+  - Prepare Reference Architecture & Platformization
+  - Cloud & Architecture Solutioning
+  - RFP Evaluation & Estimations
+  - Web Security Review & Evaluation
+  - System Design
+  - Context,Component,Container/deployment,Code/UML diagrams (C4 Model)  
 - Development
-
-  Proof of Concept & Prototyping
-
-  Code Review
-
-  Performance Tuning
-
+  - Proof of Concept & Prototyping
+  - Code Review
+  - Performance Tuning
 - Technical Leadership
-
-  Technical Guidance for Architects & senior devs
-
-  KPI based reviewing of architecture, solutioning & framework
-
-  Technical road map preparation
-
-  Technical Documentation
+  - Technical Guidance for Architects & senior devs
+  - KPI based reviewing of architecture, solutioning & framework
+  - Technical road map preparation
 
 </blockquote >
 <br>
-<br>
-<br>
-<br>
-<h3 align="left">PRIMARY SKILLS :</h3>
+<h3 align="left"><b>PRIMARY SKILLS :</b></h3>
 
 <blockquote style="font-size: 1rem;">
 
@@ -82,22 +54,14 @@ My work includes:
 -  Front end technologies (HTML, CSS, Java script, JSP,ReactJs)
 
 </blockquote >         
-
-
-
-<br>
-<h3 align="left">SECONDARY SKILLS :</h3>
+<h3 align="left"><b>SECONDARY SKILLS :</b></h3>
 
 <blockquote style="font-size: 1rem;">
 
 - AI/ML (RAG,AI agentic Systems,ML algorithms),Rust,Python,Data science
-
-<br>
-
-
 </blockquote > 
 
-<h3 align="left">TOOLS:</h3>
+<h3 align="left"><b>TOOLS:</b></h3>
 
 
 <blockquote style="font-size: 1rem;">
@@ -114,13 +78,8 @@ My work includes:
 -   **Documentation** **:** Plant Uml,Mark Down file,Draw.io,Visio,Figma,Event Catalogue,Swagger,Maven Plugins
 
 </blockquote>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 align="left">ONSITE EXPERIENCE :</h3>
+
+<h3 align="left"><b>ONSITE EXPERIENCE :</b></h3>
 
 <blockquote style="font-size: 1rem;">
   <table>
@@ -148,7 +107,8 @@ My work includes:
 </blockquote>
 <br>
 <br>
-<h3 align="left">WORK HIGHLIGHTS:</h3>
+<br>
+<h3 align="left"><b>WORK HIGHLIGHTS:</b></h3>
 <blockquote style="font-size: 1rem;">
 
 -   **Technical Guidance,Rampup & Expertise Building for team**
@@ -158,11 +118,9 @@ My work includes:
     -   Conducting Walk through sessions on Architecture,design & solutioning
     -   Guidance,review,roadmap preparation,sprint grooming for team's technical activities
 -   **Technical Review/Guidance & Cross functional Team Collaboration**
-    -   Evaluating,Identifying & recommending improvements of Architecture,Framework solutioning based on
-        -   Architectural KPIs :
-            -    Scalability,Reliability,Security,Performance,Maintainability,Openess,Extensibility,Governance
-        -   Framework KPIs :
-            -    Adoption rate,Time to Market,Cost effective,Quality,Value add
+    -   Evaluating,Identifying & recommending improvements of Architecture,Framework solutioning
+        -   Architectural KPIs : Scalability,Reliability,Security,Performance,Maintainability,Openess,Extensibility,etc
+        -   Framework KPIs : Adoption rate,Time to Market,Cost effective,Quality,Value add
     -   Prioritizing and grooming Sprint Work items based on
         -   MoSCoW Method,Value vs. Effort Matrix,Risk-Based Prioritization,Dependency Analysis
         -   Requirement Refinement,Story Point Estimation,Task Breakdown,Acceptance Criteria Definition,Dependency Identification,Backlog Refinement
@@ -175,30 +133,24 @@ My work includes:
             -    Transaction Manager **:** Jboss Narayana Tx Manager to Atomicas
             -    Resource Adapter **:** XA Transaction management with Spring Transactions
 -  **Reuseable library** for cross cutting concerns **:** Custom Parser,Security,Logging,Auditing,Internationalization,Validation,Exception Handling
-
 -   **Observability Solutioning for Monitoring & Auditing**
     - Application performance monitoring **:** X-Ray & Jaegar
     - Infrastructure monitoring **:** X-Ray and Cloud Watch
-<br>
-<br>
 -    **Performance Tuning**
        - Deadlock detection **:** DB trace file analysis for lock contention queries & fixing lock sequence
        - Memory Leak **:** Analysing the Jprofiler Dominator Tree,Objects with Retention,Leak Suspects for memory leaks
        - Performance Improvement **:** Identify Cacheable data, Reduce intensive resource access - file access,DB connection pooling, Reuse heavy objects thread-safely, reduce stack trace usage,avoid parsing,serialization
 -    **Reviews**
-
       - Custom Sonar rules coding & deployment when required
       - PIT Test report analysis and review to eliminate conunter productive test cases
       - Design & code review for performance, fault tolerance & recovery
       - Highlight refactoring techniques for aligning code with SOLID principles
 -    **Rule Engine** implementation and integration with enterprise application
-
 -    **Automation** **:** Project reportings such as Jar Licensing,documentation,PIT Test reports using Custom Maven plugin
-
 -  **Continuous Documentation** Semi Automated  **:** Architecture document, Installation document, C4Model document, Architecture design record document,other UML diagrams
 </blockquote>
-<br>
-<h3 align="left">NOTEABLE PROOF OF CONCEPT :</h3>
+
+<h3 align="left"><b>NOTEABLE PROOF OF CONCEPT :</b></h3>
 
 <blockquote style="font-size: 1rem;">
 
@@ -212,17 +164,8 @@ My work includes:
 -  ML algorithm for pattern based insights
 -  Agentic AI design
 </blockquote>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 align="left">EXPERIENCE BREAKDOWN:</h3>
+
+<h3 align="left"><b>EXPERIENCE BREAKDOWN:</b></h3>
 
 <blockquote style="font-size: 0.8rem;">
 <table>
@@ -276,11 +219,8 @@ My work includes:
   </tr>
 </table> 
 </blockquote>
-<br>
-<br>
-<br>
-<br>
-<h3 align="left">EDUCATION:</h3>
+
+<h3 align="left"><b>EDUCATION:</b></h3>
 
 <blockquote style="font-size: 1rem;">
 <table>
