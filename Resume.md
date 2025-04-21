@@ -78,7 +78,7 @@ My work includes:
 
 <blockquote style="font-size: 1rem;">
 
--   **AWS/Azure** **:** Compute,Network,Memory,Observability,Database,Middleware,Containerization & Orchestration tools  
+-   **AWS/Azure** **:** Compute,Network,Memory,Observability,Database,Middleware,Containerization,Orchestration & other cloud native tools  
 -   **Server** **:** Jboss,Tomcat,Weblogic
 -   **Database** **:** Oracle,MongoDB
 -   **Integration Solutions** **:** Messaging middleware(IBM MQ,Kafka),API management (API gateway),ESB (Apache Camel),Spring Integration
