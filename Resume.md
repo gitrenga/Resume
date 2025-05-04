@@ -201,7 +201,11 @@ My work includes:
     <td>2012</td>
     <td>2017</td> 
     <td>EFA (BMW),Aircore</td>
-    <td>Automobiles,**Airlines - Order Manager,Inventory,DCS,Payment,CRM,Disruptive management**</td>
+    <td>Automobiles,
+     
+     **Airlines - Order Manager,Inventory,DCS,Payment,CRM,Disruptive management**
+     
+     </td>
   </tr>
 <tr>
    <td>Sapient</td>
@@ -217,7 +221,11 @@ My work includes:
     <td>2007</td>
     <td>2010</td> 
     <td>Airline Reservation System (Aircore)</td>
-    <td>Modules Worked in **PSS Flights,Inventory,Seating,Load Control,Booking,Ticketing,React**</td>
+    <td>Modules Worked in 
+     
+     **PSS Flights,Inventory,Seating,Load Control,Booking,Ticketing,React**
+     
+    </td>
   </tr>
 </table> 
 </blockquote>
