@@ -191,7 +191,7 @@ My work includes:
     <td>2017</td>
     <td>2023</td> 
     <td>Order Management System (Aircore)</td>
-    <td>Airline Passengers Transportation</td> 
+    <td><b>Airlines-OrderManager,Inventory,<br>DCS,Payment,<br>Reaccomodation</b></td> 
   </tr>
   <tr>
     <td>NTT Data</td>
