@@ -19,6 +19,7 @@ Led J2EE legacy app modernization to cloud-native microservices using open-sourc
 - Successfully led cross-functional teams (associate architects, senior developers) in complex project delivery.
 - Demonstrated expertise in cross-functional collaboration for solution & deployment architecture/frameworks.
 - Proven ability to mentor and guide team members to achieve project goals.
+- **Extensive domain knowledge in Airlines - Flights,Seating,Inventory,Load Control,Booking,Ticketing,React,OMS**
 
 My work includes:
 - Architecture
@@ -36,6 +37,7 @@ My work includes:
   - Technical Guidance for Architects & senior devs
   - KPI based reviewing of architecture, solutioning & framework
   - Technical road map preparation
+  - Requests for Information (RFI), Requests for Proposal (RFP),estimations,product cutover solutioning.
 
 </blockquote >
 <br>
@@ -49,7 +51,7 @@ My work includes:
 -  Microservices Architecture(Hexagonal Architecture, Event Driven Framework, REST) 
 -  RDBMS, noSQL (MongoDB), TDD, Rule Engine (Redhat BRMS)
 -  UML,Solution & Deployment Diagram
--  Cloud Architecture & Solutioning
+-  Cloud Architecture & Deployment Solutions (Docker,Kubernetes)
 -  Enterprise Integration Solutioning (Kafka,ESB/Apache Camel,GRPC,Protobuf)
 -  Front end technologies (HTML, CSS, Java script, JSP,ReactJs)
 
@@ -198,8 +200,8 @@ My work includes:
     <td>App Software Dev Principle Consultant</td>
     <td>2012</td>
     <td>2017</td> 
-    <td>EFA (BMW)</td>
-    <td>Automobiles</td>
+    <td>EFA (BMW),Aircore</td>
+    <td>Automobiles,**Airlines - Order Manager,Inventory,DCS,Payment,CRM,Disruptive management**</td>
   </tr>
 <tr>
    <td>Sapient</td>
@@ -215,7 +217,7 @@ My work includes:
     <td>2007</td>
     <td>2010</td> 
     <td>Airline Reservation System (Aircore)</td>
-    <td>Airline Passengers Transportation</td>
+    <td>Modules Worked in **PSS Flights,Inventory,Seating,Load Control,Booking,Ticketing,React**</td>
   </tr>
 </table> 
 </blockquote>
