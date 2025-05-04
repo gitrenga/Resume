@@ -193,7 +193,7 @@ My work includes:
     <td>2017</td>
     <td>2023</td> 
     <td>Order Management System (Aircore)</td>
-    <td>Airline Passengers Transportation</td> 
+    <td>Airline Passengers Transportation <b>Airlines - Order Manager,Inventory,DCS,Payment,CRM,Disruptive management</b></td> 
   </tr>
   <tr>
     <td>NTT Data</td>
@@ -201,7 +201,7 @@ My work includes:
     <td>2012</td>
     <td>2017</td> 
     <td>EFA (BMW),Aircore</td>
-    <td>Automobiles,<b>Airlines - Order Manager,Inventory,DCS,Payment,CRM,Disruptive management</b></td>
+    <td>Automobiles,<b>PSS Flights,Inventory,Seating,Load Control,Booking,Ticketing,React</b></td>
   </tr>
 <tr>
    <td>Sapient</td>
