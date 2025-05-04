@@ -109,7 +109,6 @@ My work includes:
 </blockquote>
 <br>
 <br>
-<br>
 <h3 align="left"><b>WORK HIGHLIGHTS:</b></h3>
 <blockquote style="font-size: 1rem;">
 
@@ -163,8 +162,7 @@ My work includes:
 -  Ahead of Time Optimization using Gravaal VM for performance gain
 -  XML Schema based UI code generation
 -  Application integration with RAG based insight
--  ML algorithm for pattern based insights
--  Agentic AI design
+-  <b>ML algorithm for pattern based insights & Agentic AI design</b>
 </blockquote>
 
 <h3 align="left"><b>EXPERIENCE BREAKDOWN:</b></h3>
@@ -193,7 +191,7 @@ My work includes:
     <td>2017</td>
     <td>2023</td> 
     <td>Order Management System (Aircore)</td>
-    <td>Airline Passengers Transportation <b>Airlines - Order Manager,Inventory,DCS,Payment,CRM,Disruptive management</b></td> 
+    <td>Airline Passengers Transportation</td> 
   </tr>
   <tr>
     <td>NTT Data</td>
@@ -201,7 +199,7 @@ My work includes:
     <td>2012</td>
     <td>2017</td> 
     <td>EFA (BMW),Aircore</td>
-    <td>Automobiles,<b>PSS Flights,Inventory,Seating,Load Control,Booking,Ticketing,React</b></td>
+    <td>Automobile,<b>Airlines-OrderManager,Inventory,<br>DCS,Payment,<br>Reaccomodation</b></td>
   </tr>
 <tr>
    <td>Sapient</td>
@@ -217,7 +215,7 @@ My work includes:
     <td>2007</td>
     <td>2010</td> 
     <td>Airline Reservation System (Aircore)</td>
-    <td>Modules Worked in <b>PSS Flights,Inventory,Seating,Load Control,Booking,Ticketing,React</b></td>
+    <td>Modules Worked <b>PSS-Flights,Inventory,Seating,<br>Load Control,Booking,Ticketing,<br>Reaccomodation</b></td>
   </tr>
 </table> 
 </blockquote>
